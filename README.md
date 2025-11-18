@@ -4,6 +4,11 @@ A projection-based framework that adjusts any forecasts to satisfy coupled aggre
 ## Quick Start
 > Requires driver supports CUDA 13.0+, or you will have to edit `pyproject.toml` manually.
 
+<picture>
+  <source srcset="https://github.com/user-attachments/assets/cc42440a-15ff-46ee-9ac4-746bd54e2d10" media="(prefers-color-scheme: dark)">
+  <img align="right" width="60%" src="https://github.com/user-attachments/assets/340cd562-25db-4f08-af9f-21cde43bced9"/>
+</picture>
+
 1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
 2. Update the project's environment.
    ```
