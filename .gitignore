@@ -1,0 +1,7 @@
+__pycache__
+lightning_logs
+*.db.bak
+*.db.dat
+*.db.dir
+ECommerce-hierarchical-mean.csv
+ECommerce-hierarchical-std.csv

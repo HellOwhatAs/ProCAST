@@ -1,0 +1,38 @@
+[project]
+name = "procast"
+version = "0.1.0"
+description = "A projection-based framework that adjusts any forecasts to satisfy coupled aggregate constraints."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.0",
+    "torch>=2.6.0",
+    "darts>=0.29.0",
+    "pandas[excel]>=2.2.3",
+    "openai>=1.64.0",
+    "more-itertools>=10.6.0",
+    "tqdm>=4.67.1",
+    "neuralforecast==3.0.0",
+    "qpth>=0.0.18",
+    "reluqp",
+    "typst>=0.13.1",
+    "torchvision>=0.21.0",
+    "cooper-optim>=1.0.1",
+    "sympy>=1.13.1",
+    "hierarchicalforecast>=1.2.1",
+    "dowhen>=0.1.0",
+    "pytntnn",
+    "cachier>=4.1.0",
+    "jupyter>=1.1.1",
+]
+
+[tool.uv.sources]
+torch = [{ index = "pytorch-cu130" }]
+torchvision = [{ index = "pytorch-cu130" }]
+reluqp = { git = "https://github.com/RoboticExplorationLab/ReLUQP-py", rev = "f30914895b1e267ee14e4ce14281943b6d0dc02a" }
+pytntnn = { git = "https://github.com/HellOwhatAs/pytntnn.git", rev = "dfb5cc64f2edb387d96470cbdf1339e70cc9965d" }
+
+[[tool.uv.index]]
+name = "pytorch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true
