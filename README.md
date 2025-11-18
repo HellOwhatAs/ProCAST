@@ -18,6 +18,12 @@ A projection-based framework that adjusts any forecasts to satisfy coupled aggre
    uv run hierarchical_main.py
    ```
 
+## Main Results
+<picture>
+  <source srcset="https://github.com/user-attachments/assets/bb84f505-43ec-47e8-a176-fff22ede0f79" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/user-attachments/assets/e8e346c4-f613-4de0-89b1-24dfdc1e74dc" width="100%"/>
+</picture>
+
 ## Datasets
 Included in this repository.
 ```
@@ -34,4 +40,3 @@ Included in this repository.
   <source srcset="https://github.com/user-attachments/assets/243d4e35-2f62-4c1a-a175-3bc6417b22e7" media="(prefers-color-scheme: dark)">
   <img src="https://github.com/user-attachments/assets/25af5abe-feb8-4af5-a980-1b46b2433125" width="100%"/>
 </picture>
-
