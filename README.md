@@ -35,10 +35,10 @@ Included in this repository.
 .
 ├─datasets
 │  ├─e-commerce
-|  |  ├─category.json
-|  |  └─data.csv
+│  │  ├─category.json
+│  │  └─data.csv
 │  └─RH
-|     └─data.pkl
+│     └─data.pkl
 ```
 
 <picture>
