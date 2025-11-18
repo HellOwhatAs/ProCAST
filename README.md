@@ -29,3 +29,9 @@ Included in this repository.
 │  └─RH
 |     └─data.pkl
 ```
+
+<picture>
+  <source srcset="https://github.com/user-attachments/assets/243d4e35-2f62-4c1a-a175-3bc6417b22e7" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/user-attachments/assets/25af5abe-feb8-4af5-a980-1b46b2433125" width="100%"/>
+</picture>
+
