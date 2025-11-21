@@ -1,6 +1,11 @@
 # ProCAST
 A projection-based framework that adjusts any forecasts to satisfy coupled aggregate constraints.
 
+<picture>
+  <source srcset="https://github.com/user-attachments/assets/797dcf64-20a0-4d80-b384-0cdb665fa861" media="(prefers-color-scheme: dark)">
+  <img align="right" width="100%" src="https://github.com/user-attachments/assets/68d8c5d1-71d1-4f76-a7cf-e47b3be252f1"/>
+</picture>
+
 ## Quick Start
 > Requires driver supports CUDA 13.0+, or you will have to edit `pyproject.toml` manually.
 
