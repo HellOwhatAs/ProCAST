@@ -2,7 +2,7 @@
 A projection-based framework that adjusts any forecasts to satisfy coupled aggregate constraints.
 
 <picture>
-  <source srcset="https://github.com/user-attachments/assets/7dfb7fca-bbba-43b6-b825-bbb0d1fa4c59" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github.com/user-attachments/assets/db51757a-69a2-45ce-8be6-fcb543eb311c" media="(prefers-color-scheme: dark)">
   <img width="100%" src="https://github.com/user-attachments/assets/3c08cbd1-7a60-4318-8499-73b5b9f14d55"/>
 </picture>
 
